@@ -1,0 +1,36 @@
+#img-caption {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#img-div {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#image {
+  max-width: 300px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#title {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#tribute-info {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#tribute-link {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
